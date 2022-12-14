@@ -1,0 +1,16 @@
+{
+  "name": "system32",
+  "version": "1.0.0",
+  "description": "Jest Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest"
+  ],
+  "author": "Pavel",
+  "license": "ISC"
+}
