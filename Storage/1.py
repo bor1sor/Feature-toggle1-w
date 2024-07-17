@@ -1,3 +1,9 @@
-print(8 / 6)
-print(max(3, 5, 7))
-print(min(1, 4, 5))
+num1 = int(input("Enter the first number: "))
+
+num2 = int(input("Enter the second number: "))
+
+print("Result:", num1 + num2)
+print("Result:", num1 - num2)
+print("Result:", num1 // num2)
+print("Result:", num1 * num2)
+print("Result:", num1**num2)
