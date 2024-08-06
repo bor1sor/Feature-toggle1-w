@@ -4,7 +4,7 @@ from selenium.common.exceptions import WebDriverException
 
 
 def test_website_availability():
-    url = "https://shop.budu.ru/444"
+    url = "https://shop.budu.ru/"
 
     # Проверка доступности сайта с использованием библиотеки Requests
     try:
