@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 # URL главной страницы
-url = "https://shop.budu.ru/"
+url = "https://budu.ru/"
 
 
 # Проверка доступности страницы с помощью requests

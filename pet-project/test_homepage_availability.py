@@ -2,7 +2,7 @@ import requests
 
 
 def test_homepage_availability():
-    url = "https://shop.budu.ru/"
+    url = "https://budu.ru/"
     response = requests.get(url)
     assert (
         response.status_code == 200
