@@ -1,0 +1,6 @@
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>5.3.0</version> <!-- укажите последнюю версию -->
+    <scope>test</scope>
+</dependency>
