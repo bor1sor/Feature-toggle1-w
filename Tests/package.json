@@ -1,0 +1,24 @@
+{
+  "name": "feature-toggle1-w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bor1sor/Feature-toggle1-w.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bor1sor/Feature-toggle1-w/issues"
+  },
+  "homepage": "https://github.com/bor1sor/Feature-toggle1-w#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.3"
+  }
+}
